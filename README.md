@@ -25,7 +25,7 @@ As a Software Engineer, I am a dedicated and self-motivated individual with a pa
 
   <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=berkcanarslan)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=berkcanarslansupp)](https://git.io/streak-stats)
 
 </div>
  
